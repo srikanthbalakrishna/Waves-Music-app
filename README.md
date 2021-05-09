@@ -1,4 +1,5 @@
-#Waves Music app!
+# Waves Music app!
+
 ![](demo.gif)
 Made using ReactJS
 
