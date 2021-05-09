@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+#Waves Music app!
+![](demo.gif)
+Made using ReactJS
+
+- Credits to [Simo Edwin](https://github.com/developedbyed) for his tutorial on React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
